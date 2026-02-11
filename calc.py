@@ -15,8 +15,6 @@ while (True):
     elif sign == '-':
         diff = float(num_1 - num_2)
         print(diff)
-    else:
-        print("Invalid input.")
 
 
 
